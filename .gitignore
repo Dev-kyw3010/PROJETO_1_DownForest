@@ -1,6 +1,6 @@
 # Ignorar arquivos de configuração do Godot
 .import/
-*.gd
+
 *.tscn
 *.tres
 *.res
